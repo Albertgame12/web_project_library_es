@@ -341,7 +341,7 @@ ul {
 .footer {
   background-color: #1f1f1f;
   color: white;
-  padding: 60px 80px 60px 80px; 
+  padding: 60px 80px; 
   box-sizing: border-box;
   position: relative;
   display: flex;
