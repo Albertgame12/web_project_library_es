@@ -114,17 +114,15 @@
   color: #ffffff;
 }
 
-ul {
+.staff__cards {
+  max-width: 760px;
+  margin: 68px auto 0;
+  list-style-type: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 40px;
   padding-left: 0;
-}
-.staff__cards {
-  max-width: 760px;
-  margin: 68px auto 0;
-  list-style-type: none;
 }
 .card {
   background-color: #fff;
@@ -313,6 +311,9 @@ ul {
   padding: 0;
   margin: 100px 0 0;
   justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
 }
 
 .step {
@@ -341,7 +342,7 @@ ul {
 .footer {
   background-color: #1f1f1f;
   color: white;
-  padding: 60px 80px; 
+  padding: 60px 80px;
   box-sizing: border-box;
   position: relative;
   display: flex;
