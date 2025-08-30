@@ -320,6 +320,7 @@
   justify-content: center;
   width: 220px;
   margin-right: 40px;
+  flex-basis: auto;
 }
 
 .step__title {
