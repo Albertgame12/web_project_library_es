@@ -172,7 +172,7 @@
 }
 
 .events__content {
-  flex-basis: 500px;
+  flex-basis: 580px;
 }
 
 .events__heading {
@@ -319,7 +319,7 @@
 .step {
   justify-content: space-evenly;
   width: 220px;
-  margin-right: 40px;
+  padding-right: 40px;
 }
 
 .step__title {
