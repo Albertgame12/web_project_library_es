@@ -317,9 +317,9 @@
 }
 
 .step {
-  justify-content: space-evenly;
+  justify-content: space-around;
   width: 220px;
-  padding-right: 40px;
+  margin-right: 40px;
 }
 
 .step__title {
