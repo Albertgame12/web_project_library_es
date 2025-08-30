@@ -317,7 +317,7 @@
 }
 
 .step {
-  justify-content: space-around;
+  justify-content: center;
   width: 220px;
   margin-right: 40px;
 }
